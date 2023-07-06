@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/kagami-tsukimura/pokemon-pictorial-book/",
+  "homepage": "https://kagami-tsukimura.github.io/pokemon-pictorial-book/",
   "eslintConfig": {
     "extends": [
       "react-app",
