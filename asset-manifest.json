@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kagami-tsukimura/pokemon-pictorial-book/static/css/main.18e28de2.css",
+    "main.js": "/kagami-tsukimura/pokemon-pictorial-book/static/js/main.2804a635.js",
+    "index.html": "/kagami-tsukimura/pokemon-pictorial-book/index.html",
+    "main.18e28de2.css.map": "/kagami-tsukimura/pokemon-pictorial-book/static/css/main.18e28de2.css.map",
+    "main.2804a635.js.map": "/kagami-tsukimura/pokemon-pictorial-book/static/js/main.2804a635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e28de2.css",
+    "static/js/main.2804a635.js"
+  ]
+}
